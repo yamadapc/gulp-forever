@@ -6,9 +6,10 @@
   "scripts": {
     "test": "mocha -t 0"
   },
+  "homepage": "https://github.com/yamadapc/gulp-forever",
   "repository": {
     "type": "git",
-    "url": "git://gitlab.com/yamadapc/gulp-forever"
+    "url": "git://github.com/yamadapc/gulp-forever"
   },
   "keywords": [
     "gulp",
